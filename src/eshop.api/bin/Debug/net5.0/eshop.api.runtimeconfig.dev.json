@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Alejandra\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Alejandra\\.nuget\\packages"
+    ]
+  }
+}
