@@ -11,6 +11,8 @@ namespace eshop.api.Controllers
     {
         public AppDbContext AppDbContext { get; }
         public IMapper Mapper { get; }
+
+        //mod
         public ProductosController(AppDbContext appDbContext, IMapper mapper)
         {
             this.Mapper = mapper;
